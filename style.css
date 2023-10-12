@@ -144,7 +144,7 @@ section {
 .home {
     display: flex;
     align-items: center;
-    background: url(./images/home.png) no-repeat;
+    background: url(./home.png) no-repeat;
     min-height: 110vh;
     background-size: cover;
     background-position: center;
